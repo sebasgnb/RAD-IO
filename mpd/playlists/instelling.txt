@@ -1,0 +1,8 @@
+MNM*http://icecast.vrtcdn.be/mnm-high.mp3
+STUBRU*http://icecast.vrtcdn.be/stubru_bruut-high.mp3
+KLARA*http://icecast.vrtcdn.be/klara-high.mp3
+RADIO-1*http://icecast.vrtcdn.be/radio1_classics_high.mp3
+Q-MUSIC*http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_128.mp3
+JOE-FM*http://icecast-qmusic.cdp.triple-it.nl/JOEfm_be_live_128.mp3
+KETNET-R*http://icecast-servers.vrtcdn.be/ketnetradio-high.mp3
+RADIO-2*http://icecast-servers.vrtcdn.be/radio2_benebene-high.mp3
