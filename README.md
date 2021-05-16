@@ -1,5 +1,5 @@
 # RAD-IO
-A raspberry pi internet radio, with steppermotor 28BYJ-48 with uln2003 driver. Two potentiometers with mcp3008. Also updates both on mqtt to broker hosted on Ubuntu vm (Azure) and via htpp (post) to uBeac. Has web interface to control the radio. Also a Nokia 5110 lcd display to show channel and volume.
+A raspberry pi internet radio player (onboard audio), with steppermotor 28BYJ-48 with uln2003 driver(3D printed wheel to show what # of channel). Two potentiometers with mcp3008 (control volume and channel). Also updates both on mqtt to broker hosted on Ubuntu vm (Azure) and via htpp (post) to uBeac (written with node-red). Has web interface (node-red) to control the radio. Also a Nokia 5110 lcd display to show channel and volume.
 # Youtube showcase:
 https://youtu.be/R3yHuk3rS5M
 ## Message me if you have a question
